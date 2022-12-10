@@ -10,3 +10,5 @@ im browser gewünschtes buch öffnen, dann Rechtsklick und Element untersuchen -
 3. Besuche
 https://colab.research.google.com/drive/1XqVu5D54dWMXq4fZlJ4oC1oDCrHux3Uq?usp=sharing
 und gib die entsprechenden Daten ein
+
+4. Führe alles aus
