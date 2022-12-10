@@ -13,4 +13,4 @@ und gib die entsprechenden Daten ein
 
 4. Führe dort alles aus und warte
 
-5. Das PDF befindet sich anschließend auf deinem Drive
+5. Das PDF befindet sich anschließend auf deinem Google Drive
