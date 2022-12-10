@@ -11,6 +11,8 @@ im browser gewünschtes buch öffnen, dann Rechtsklick und Element untersuchen -
 https://colab.research.google.com/drive/1XqVu5D54dWMXq4fZlJ4oC1oDCrHux3Uq?usp=sharing
 und gib die entsprechenden Daten ein
 
+![Alt text](https://github.com/Persie0/Online-Digi4school-PDF-Downloader/raw/main/2022-12-10_14-03.png)
+
 4. Führe dort alles aus und warte
 
 5. Das PDF befindet sich anschließend auf deinem Google Drive
