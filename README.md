@@ -1,4 +1,6 @@
 # Online-Digi4school-PDF-Downloader
+Nur für den Privatgebrauch
+
 1. Öffne dein gewünschtes Buch in Digi4School
 2. Finde deine Cookies:
 ![Alt text](https://github.com/Persie0/Online-Digi4school-PDF-Downloader/raw/main/2022-12-10_13-20.png)
